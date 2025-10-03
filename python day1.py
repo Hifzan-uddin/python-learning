@@ -1,0 +1,1 @@
+print("l will learn this peice of shit, God will help me ")
